@@ -1,6 +1,6 @@
 # f23wa56ctanniru
-created remote repo thru express by vscode. 
+created remote repo through express by vscode. 
 
-Remote Render server URL: https://renderabhinaya.onrender.com
+Access the live version of this project on render: [Render Link](https://renderabhinaya.onrender.com/)
 
 
